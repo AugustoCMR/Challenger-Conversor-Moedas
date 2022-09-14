@@ -42,6 +42,8 @@ public class Menu {
 					} else {
 						JOptionPane.showMessageDialog(null, "Valor inválido");
 					}
+					
+					break;
 				
 				case "Conversor De Temperatura":
 					
