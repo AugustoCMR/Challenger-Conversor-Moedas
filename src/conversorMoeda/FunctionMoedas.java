@@ -3,7 +3,7 @@ package conversorMoeda;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-public class Function {
+public class FunctionMoedas {
 	
 	ConversorReaisParaMoedas moedas = new ConversorReaisParaMoedas();
 	ConversorMoedasParaReais reais = new ConversorMoedasParaReais();
