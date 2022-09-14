@@ -64,6 +64,8 @@ public class Menu {
 						 //Para execução
 						 executa = false;
 					 }
+					 
+					 break;
 				 }
 					
 				
