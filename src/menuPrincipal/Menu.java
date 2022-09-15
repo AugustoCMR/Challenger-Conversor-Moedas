@@ -59,16 +59,18 @@ public class Menu {
 						 System.out.println(aswer);
 					 if(aswer == 0) {
 						 System.out.println("Continua");
-					 } else {
+					 } else if(aswer == JOptionPane.NO_OPTION) {
 						 JOptionPane.showMessageDialog(null, "Programa finalizado");
 						 //Para execução
 						 executa = false;
-					 }
+					 } 
 					 
-					 break;
+					 
+				 } else {
+					 JOptionPane.showMessageDialog(null, "Valor inválido");
 				 }
 					
-				
+				  break;
 																			
 			}
 			
