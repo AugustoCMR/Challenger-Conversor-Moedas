@@ -15,6 +15,6 @@ Após baixar o projeto basta abrir o seu executável.jar. Lembrando que você de
 
 ### Atualizações futuras no código
 
-- [] Implementar uma API para extrair os valores da cotação do momento atual.
+- [ ] Implementar uma API para extrair os valores da cotação do momento atual.
 
 
