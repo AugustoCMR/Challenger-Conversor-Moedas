@@ -13,6 +13,8 @@ O desafio consiste em criar um conversor de moedas utilizando Java e java swing.
 ## 🛠️ Abrir e rodar o projeto
 Após baixar o projeto basta abrir o seu executável.jar. Lembrando que você deve ter o Java instalado na sua máquina para usufruir das funcionalidades.
 
+:file_folder: Projeto .jar download: https://github.com/AugustoCMR/Challenger-Conversor-Moedas/raw/main/conversor-de-moedas.jar
+
 ### 📋 Atualizações futuras no código
 
 - [ ] Implementar uma API para extrair os valores da cotação do momento atual.
